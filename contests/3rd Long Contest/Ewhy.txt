@@ -1,0 +1,22 @@
+
+Suppose a case.
+Pol has 4 known words (a,b,c,d)
+En has 3 known words (a,b,c)
+
+Possible Game 1:
+Pol says a.
+En says b.
+Pol says d
+En says c.
+En wins here.
+
+
+Possible Game 2:
+Pol says a.
+En says b.
+Pol says c.
+Pol wins here.
+
+
+In the same case, both can win.
+Then, what rule should I follow?

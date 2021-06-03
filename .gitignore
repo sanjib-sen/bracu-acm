@@ -1,7 +1,7 @@
-/Videos
+/Resources
 *.class
 *.exe
 *.o
-*iml
+*.iml
 *.c
-contests/3rd Long Contest/seive.coo
+*.bin
